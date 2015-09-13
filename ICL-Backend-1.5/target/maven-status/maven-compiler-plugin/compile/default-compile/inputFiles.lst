@@ -1,0 +1,13 @@
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/servlets/WriteMessage.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/dao/UserDao.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/auth/Username.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/dao/UserDaoImpl.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/entity/Message.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/filters/MyFilter.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/dao/Factory.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/dao/MessageDaoImpl.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/db/JDBC.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/dao/MessageDao.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/db/Database.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/entity/User.java
+/Users/rchumarin/NetBeansProjects/ICL-Backend-1.4/ICL-Backend-1.5/src/main/java/ru/icl/test/entity/HibernateUtil.java
